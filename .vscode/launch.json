@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SpringBootSessionApplication<Spring-Boot-Session-Example>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.javainuse.SpringBootSessionApplication",
+      "projectName": "Spring-Boot-Session-Example",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
